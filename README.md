@@ -7,6 +7,6 @@
 <br>
 <h2>Aplicativo feito com react-native e tailwind.</h2>
 <br>
-<p>Foi feito com base no app feito pelo Sujeito programador.</p>
+<p>Foi feito com base no app feito pelo canal do youtube "Sujeito Programador".</p>
 <br>
-<a href="https://www.youtube.com/watch?v=aABUs_L4AZg" target="_blank">Video aqui</a>
+<a href="https://www.youtube.com/watch?v=aABUs_L4AZg" target="_blank">Link do video aqui</a>
